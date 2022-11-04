@@ -1,3 +1,3 @@
-# Python代码仓库模板
+# 【飞桨学习赛：图神经网络入门节点分类】2022年10月第3名方案
 
-![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) 
+
